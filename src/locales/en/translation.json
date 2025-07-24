@@ -1,0 +1,169 @@
+{
+ "Diamond":"Diamond",
+ "Worker":"Worker",
+ "Add Worker":"Add Worker",
+ "View List Worker":"View List Worker",
+ "Upad":"Upad",
+ "Add Worker Upad":"Add Worker Upad",
+ "View Worker Upad":"View Worker Upad",
+ "Diamond Types":"Diamond Types",
+ "Add Diamond":"Add Diamond",
+ "View List Diamond":"View List Diamond",
+ "Diamond Management":"Diamond Management",
+ "Add Management":"Add Management",
+"View List Management":"View List Management",
+ "Diamond Submitted":"Diamond Submitted",
+ "Add Submit Diamond":"Add Submit Diamond",
+ "View List Submit":"View List Submit",
+"Salary":"Salary",
+"View List Salary":"View List Salary",
+"Sign Out":"Sign Out",
+
+"Search here..":"Search here..",
+"test":"test",
+"Admin":"Admin",
+
+
+  "Diamond Name": "Diamond Name",
+  "Enter name": "Enter name",
+  "Enter price":"Enter price",
+  "Diamond Price": "Diamond Price",
+  "Cancel": "Cancel",
+  "Add": "Add",
+  "diamond added successfully!": "Diamond added successfully!",
+
+
+  "Worker Name": "Worker Name",
+ 
+  "Worker Phone": "Worker Phone",
+  "Enter phone": "Enter phone",
+  "Worker Address": "Worker Address",
+  "Enter address": "Enter address",
+  
+  
+  "Worker added successfully!": "Worker added successfully!",
+
+   "All Workers": "All Workers",
+  
+  "Name": "Name",
+  "Phone": "Phone",
+  "Address": "Address",
+  "Actions": "Actions",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "Are you sure?": "Are you sure?",
+  "Worker deleted": "Worker deleted",
+  "No workers found.": "No workers found.",
+
+  "Update Worker": "Update Worker",
+  
+  "Update": "Update",
+  "Worker updated successfully!": "Worker updated successfully!",
+
+ "Note":"Note",
+  "Select Worker": "Select Worker",
+  "Worker Upad": "Worker Upad",
+  "Upad Note": "Upad Note",
+  "Enter upad": "Enter upad",
+  "Enter upad note": "Enter upad note",
+ 
+  "Please select name and upad": "Please select name and upad",
+  "Upad successfully added": "Upad successfully added",
+  
+  "No worker upad found.": "No worker advance found.",
+  
+  "Deleted successfully": "Deleted successfully",
+   "Update Upad": "Update Upad",
+  
+  "Worker upad updated successfully": "Worker advance updated successfully",
+   "All Diamonds": "All Diamonds",
+  
+  "No diamonds found.": "No diamonds found.",
+  "Are you sure you want to delete this diamond?": "Are you sure you want to delete this diamond?",
+  "Diamond deleted successfully.": "Diamond deleted successfully.",
+    "Update Diamond": "Update Diamond",
+  
+  "Enter diamond name": "Enter diamond name",
+ 
+  "Enter diamond price": "Enter diamond price",
+ 
+  "Diamond updated successfully": "Diamond updated successfully",
+  
+  "Diamond Type": "Diamond Type",
+  "Select Diamond Type": "Select Diamond Type",
+  "How Many Diamonds": "How Many Diamonds",
+  "Enter quantity": "Enter quantity",
+  
+  "Please select both Worker and Diamond Type": "Please select both Worker and Diamond Type",
+  "Diamond Management entry added successfully!": "Diamond Management entry added successfully!",
+ 
+ "confirm_delete": "Are you sure?",
+  "delete_success": "Diamond deleted",
+  "no_diamond_found": "No diamond found.",
+  "worker_assignment": "Worker Assignment",
+  "add": "Add",
+  "date": "Date",
+  "name": "Name",
+  "diamond_type": "Type",
+  "price": "Price",
+  "given": "Given",
+  "actions": "Actions",
+  "edit": "Edit",
+  "delete": "Delete",
+
+ "Update Diamond Management": "Update Diamond Management",
+
+  "Enter worker name": "Enter worker name",
+ 
+
+  "How Many": "How Many",
+  
+ 
+  "Please select a valid diamond": "Please select a valid diamond",
+  "Updated successfully": "Updated successfully",
+
+
+  "Diamond deleted": "Diamond deleted",
+  "No diamond found.": "No diamond found.",
+  "Worker Assignment": "Worker Assignment",
+ 
+  "Date": "Date",
+
+  "Type": "Type",
+  "Price": "Price",
+  "Given": "Given",
+
+  
+  "Submit Diamonds": "Submit Diamonds",
+  "Enter submitted quantity": "Enter submitted quantity",
+  "Select Date": "Select Date",
+ 
+   "Submitted Diamond": "Submitted Diamond",
+  
+  "Submit": "Submit",
+ 
+  "Diamond submit deleted": "Diamond submit deleted",
+
+  
+  "Error updating:": "Error updating:",
+ 
+
+   "Generate Salary List": "Generate Salary List",
+  "Select Worker Name": "Select Worker Name",
+  "Generate": "Generate",
+ 
+  "Submitted": "Submitted",
+  "Total Amount": "Total Amount",
+  "Total Salary": "Total Salary",
+  "Total Upad": "Total Upad",
+  "Final Salary": "Final Salary",
+  "Upad Entries": "Upad Entries",
+  
+  "Diamond Type List": "Diamond Type List",
+
+  "Total Diamonds Got": "Total Diamonds Got",
+  "Please select all fields": "Please select all fields",
+
+  "Start Date:":"Start Date:",
+"End Date:":"End Date:"
+}

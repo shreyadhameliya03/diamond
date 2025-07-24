@@ -1,0 +1,169 @@
+{
+  "Diamond":"હીરા ",
+  "Worker":"કારીગર",
+   "Add Worker":"કારીગર ઉમેરો",
+ "View List Worker":"કારીગર લિસ્ટ ",
+ "Upad":"ઉપાડ ",
+ "Add Worker Upad":"કારીગર ઉપાડ ઉમેરો ",
+ "View Worker Upad":"કારીગર ઉપાડ લિસ્ટ  ",
+ "Diamond Types":"હીરાના  પ્રકાર",
+ "Add Diamond":"હીરાનો  પ્રકાર  ઉમેરો ",
+ "View List Diamond":"હીરાના પ્રકાર લિસ્ટ   ",
+ "Diamond Management":"આપેલ હીરા  ",
+ "Add Management":"આપેલ હીરા ઉમેરો ",
+"View List Management":"આપેલ હીરા લિસ્ટ  ",
+ "Diamond Submitted":"મળેલ હીરા",
+ "Add Submit Diamond":"  મળેલ હીરા ઉમેરો  ",
+ "View List Submit":" મળેલ હીરા લિસ્ટ  ",
+"Salary":" પગાર ",
+"View List Salary":"પગાર લિસ્ટ  ",
+"Sign Out":"લોગ આઉટ",
+
+"Search here..":"અહીંયા સર્ચ  કરો ",
+"shreya":"શ્રેયા ",
+"Admin":"વ્યવસ્થાપક",
+
+
+ 
+  "Diamond Name": "હીરાનું નામ",
+  "Enter name": " નામ લખો",
+  "Enter price":"કિંમત લખો ",
+  "Diamond Price": "હીરાની કિંમત",
+  "Cancel": "રદ કરો",
+  "Add": "ઉમેરો",
+  "diamond added successfully!": "હીરો  સફળતાપૂર્વક ઉમેરાયો!",
+
+  
+  "Worker Name": "કારીગરનું નામ",
+ 
+  "Worker Phone": "કારીગરનો  ફોન નંબર",
+  "Enter phone": "ફોન નંબર દાખલ કરો",
+  "Worker Address": "કારીગરનું સરનામું",
+  "Enter address": "સરનામું દાખલ કરો",
+  
+  "Worker added successfully!": "કારીગર સફળતાપૂર્વક ઉમેરાયો!",
+
+   "All Workers": "બધા કારીગરો",
+ 
+  "Name": "નામ",
+  "Phone": "ફોન",
+  "Address": "સરનામું",
+  "Actions": "ક્રિયાઓ",
+  "Edit": " સુધારો ",
+  "Delete": "હટાવો ",
+  "Are you sure?": "શું તમે ખરેખર ખતરી કરો છો?",
+  "Worker deleted": "કારીગરકાઢી નાખવામાં આવ્યો છે",
+  "No workers found.": "કોઈ કારીગર મળ્યો નથી.",
+
+  "Update Worker": "કારીગર સુધારવો",
+  
+  "Update": " સુધારો",
+  "Worker updated successfully!": "કારીગર સફળતાપૂર્વક સુધારાયો છે!",
+
+  
+  "Select Worker": "કારીગર પસંદ કરો",
+  "Worker Upad": "કારીગર ઉપાડ",
+  "Upad Note": "ઉપાડ નોંધ",
+  "Enter upad": "ઉપાડ દાખલ કરો",
+  "Enter upad note": "ઉપાડ માટે નોંધ દાખલ કરો",
+  
+  "Please select name and upad": "કૃપા કરીને નામ અને ઉપાડ પસંદ કરો",
+  "Upad successfully added": "ઉપાડ સફળતાપૂર્વક ઉમેરાયો",
+  
+  "No worker upad found.": "કોઈ કારીગરનો ઉપાડ મળ્યો નથી.",
+ 
+  "Deleted successfully": "સફળતાપૂર્વક કાઢી નાખ્યું",
+
+   "Update Upad": "ઉપાડ સુધારો",
+ 
+  "Worker upad updated successfully": "કારીગર ઉપાડ સફળતાપૂર્વક સુધારાયો",
+   "All Diamonds": "બધા હીરા",
+  
+  "No diamonds found.": "કોઈ હીરા મળ્યા નથી.",
+  "Are you sure you want to delete this diamond?": "શું તમે ખરેખર આ હીરા હટાવવા માંગો છો?",
+  "Diamond deleted successfully.": "હીરો સફળતાપૂર્વક હટાવવામાં આવ્યો.",
+
+   "Update Diamond": "હીરા સુધારો",
+ 
+  "Enter diamond name": "હીરાનું નામ લખો",
+ 
+  "Enter diamond price": "હીરાનો ભાવ લખો",
+  
+  "Diamond updated successfully": "હીરો સફળતાપૂર્વક અપડેટ થયો",
+  
+  "Diamond Type": "હીરાનો પ્રકાર",
+  "Select Diamond Type": "હીરાનો પ્રકાર પસંદ કરો",
+  "How Many Diamonds": "કેટલા હીરા આપ્યા છે?",
+  "Enter quantity": "હીરાની સંખ્યા દાખલ કરો",
+ 
+  "Please select both Worker and Diamond Type": "કૃપા કરીને કારીગર અને હીરાનો પ્રકાર પસંદ કરો",
+  "Diamond Management entry added successfully!": "આપેલ હીરા એન્ટ્રી સફળતાપૂર્વક ઉમેરાઈ ગઈ!",
+
+   "Worker Assignment": "આપેલ હીરા લિસ્ટ ",
+  
+  "Date": "તારીખ",
+  
+  "Type": "પ્રકાર",
+  "Price": "ભાવ",
+  "Given": "આપેલ",
+  
+  "Diamond deleted": "હીરા સફળતાપૂર્વક દૂર થયો",
+  "No diamond found.": "કોઈ હીરા મળ્યો નથી",
+  "confirm_delete": "શું તમે ખરેખર ડિલીટ કરવા માંગો છો?",
+  "delete_success": "હીરા સફળતાપૂર્વક કાઢી નાખવામાં આવ્યો.",
+  "no_diamond_found": "કોઈ હીરા મળ્યો નથી.",
+  "worker_assignment": "કારીગર નિમણૂક",
+  "add": "ઉમેરો",
+  "date": "તારીખ",
+  "name": "નામ",
+  "diamond_type": "હીરા પ્રકાર",
+  "price": "ભાવ",
+  "given": "આપેલ",
+  "actions": "ક્રિયાઓ",
+  "edit": "સંપાદન કરો",
+  "delete": "કાઢી નાંખો",
+
+   "Update Diamond Management": " હીરા  મેનેજમેન્ટ અપડેટ કરો",
+
+  "Enter worker name": "કારીગરનું નામ દાખલ કરો",
+  
+
+  "How Many": "કેટલા હીરા આપ્યા?",
+
+  
+  "Updated successfully": "સફળતાપૂર્વક અપડેટ થયું",
+  "Please select a valid diamond": "મહેરબાની કરીને સાચો હીરા પસંદ કરો",
+
+ 
+  "Submit Diamonds": "જમા  કરેલા  હીરા",
+  "Enter submitted quantity": "જમા  કરેલી સંખ્યા લખો",
+  "Select Date": "તારીખ પસંદ કરો",
+
+   "Submitted Diamond": "જમા  કરેલ હીરા",
+ 
+  "Submit": "જમા ",
+  
+  "Diamond submit deleted": "જમા હીરા  કાઢી નાખવામાં આવ્યું",
+
+   
+  "Error updating:": "અપડેટ કરતી વખતે ભૂલ:",
+ 
+
+  "Generate Salary List": "પગાર યાદી બનાવો",
+  "Select Worker Name": "કારીગર પસંદ કરો",
+  "Generate": "બનાવો",
+ 
+  "Submitted": "સબમિટ કરેલ",
+  "Total Amount": "કુલ રકમ",
+  "Total Salary": " પગાર",
+  "Total Upad": "કુલ ઉધાર",
+  "Final Salary": "કુલ પગાર",
+  "Upad Entries": "ઉધાર વિગત",
+  
+  "Diamond Type List": "હીરા પ્રકાર યાદી",
+ "Note":"નોંધ ",
+  "Total Diamonds Got": "કુલ મળેલ હીરા",
+  "Please select all fields": "કૃપા કરીને તમામ ફીલ્ડ પસંદ કરો",
+  "End Date:":"આખરની તારીખ: ",
+   "Start Date:":"શરુઆતની તારીખ:"
+}
